@@ -1,0 +1,2 @@
+# FirstDiscordBot
+This is mainly going to be a bunch of code which won't function most of the time, as this will be the code used to run a testing bot. However, useful snippets may come up from time to time, and stable builds with documentation will be posted from time to time.
